@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 
+<<<<<<< main
 target_branch="develop";
+=======
+target_branch="dev";
+>>>>>>> local
 
 if [[ $1 ]]; then
      target_branch="$1";
