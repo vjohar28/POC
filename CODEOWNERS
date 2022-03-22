@@ -1,0 +1,11 @@
+#
+# pattern:
+#
+# file/directory       user
+#
+
+*.txt      @vjohar28
+
+
+tooling/    @vjohar28
+
